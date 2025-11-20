@@ -21,12 +21,8 @@
 
 <br />
 <br />
-
-
-
-
-Junior data/ML engineer who builds scalable data pipelines using tools like Airﬂow, Kafka, and dbt to perform data warehousing and transformation. I have data modeling dexterity with advanced python libraries together with SQL databases. Moreover, skilled with advanced python libraries in areas of computer vision, deep learning frameworks, and MLops. I create data-driven solutions and experienced working on various aspects of data science/machine learning processes such as data processing and preparation, analysis, modeling, and deployment.
-  
+A results-driven Data Engineer specializing in building scalable data pipelines using Airflow and DBT. Proficient in data warehousing, transformation, and modeling with advanced Python libraries and SQL databases. Experienced in data visualization with
+business intelligence tools for impactful reporting and and a collaborative team player.
 
 ### :hammer_and_wrench: Tools, platforms and frameworks  
 
