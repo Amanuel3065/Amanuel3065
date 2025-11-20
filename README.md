@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Amanuel Zewdu
 
-### Data Engineer | Analytics 
-Enthusiast
+### Data Engineer | Analytics Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanuel-zewdu-070826181/">
